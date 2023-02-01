@@ -1,0 +1,42 @@
+body {
+    margin: 5px;
+    background-color: darkgray;
+}
+
+.wrapper {
+    background-color: rgb(184, 184, 197);
+    width: 800px;
+    margin: 0 auto;
+}
+
+header {
+    color:rgb(224, 35, 152);
+    background-color: rgb(37, 17, 221);
+    padding: 20px;
+    font-size: 34px;
+}
+
+main {
+    padding: 0 20px;
+}
+
+
+h1,
+header {
+    text-align: center;
+}
+
+.chat {
+    list-style-type: none;
+}
+
+footer {
+    background-color: rgb(197, 13, 13);
+    color:rgb(153, 153, 173);
+    text-align: center;
+    padding: 60px;
+}
+
+p {
+    font-style: italic;
+}
